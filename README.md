@@ -1,2 +1,3 @@
-# relatos-experiencias-imersivas
-Relatos e registros de aprendizagem do módulo Experiências Imersivas do Inteli.
+# Relatos de Experiências Imersivas
+
+Aqui vou deixar meus relatos das aulas e o que eu for aprendendo ao longo do módulo.
